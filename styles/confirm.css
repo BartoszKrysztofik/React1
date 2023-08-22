@@ -1,0 +1,35 @@
+.bgi {
+    width: 100%;
+    height: 100%;
+    background-image: url("../Image/png/background1.png");
+    background-size: cover;
+}
+.confirm {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 528px;
+    font-size: 24px;
+}
+.submit {
+    border: none;
+    border-radius: 7px;
+    margin-top: 26px;
+    width: 100%;
+    height: 50px;
+    background-color: #ff6939;
+    font-size: 18px;
+    font-weight: bold;
+    color: #190f27;
+}
+a.link {
+    border-bottom: 3px solid #284642;
+    text-decoration: none;
+    font-size: 14px;
+    color: #64606a;
+}
+.login {
+    margin-top: 24px;
+    font-size: 14px;
+    color: #64606a;
+}
